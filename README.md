@@ -8,4 +8,4 @@ Members: Yuelai Feng, Jiarui Yu, Weihan Qu, Hanwen Shen
 ## Codes:
 * GNN_fully_connected_graph.ipynb: contains code for the GNN with fully connected graph
 * [Google Colab](https://colab.research.google.com/drive/17EVGPqimIEX6eC5Zr_GgTLfllfJ83GAm?usp=sharing): contains code for Tweet data pre-processing, and the GNN with the UK geograpical network
-* transit_systems_analysis: contains code for processing and analyzing the transit systems of major UK cities
+* transit_systems_analysis.ipynb: contains code for processing and analyzing the transit systems of major UK cities
